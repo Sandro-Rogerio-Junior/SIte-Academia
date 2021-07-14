@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+header{
+    background-color: #2b2a2a;
+    max-width: 100%;
+    height: 225px;
+    /*box-shadow: 0px 5px 10px rgb(71, 71, 71);*/
+
+}
+.logo{
+    display: block;
+    margin: auto;
+    height: 150px;  
+}
+ul{
+    list-style: none;
+    text-align: center;
+   
+    
+    
+   
+}
+.menu{
+    text-align: center;
+    width: 90px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: #7ED957;
+    padding: 13px;
+    border-radius: 10px;
+    color: white;
+   
+}
+.img-central{
+    max-width: 100%;
+}
+#quemsomos{
+    max-width: 90%;
+    margin: auto;
+    margin-top: 100px;
+    
+
+}
+.img-quemsomos{
+    height: 500px;
+    width: 250px;
+    
+}
+.img-quemsomos1{
+    margin-bottom: 45px;
+
+}
+.img-quemsomos2{
+    margin-left: 20px;
+}
+.quemsomos-text{
+    width: 50%;
+    float: right ;
+    
+}
+.title-quemsomos{
+    text-align: center;
+    font-size: 3em;
+    color: #7ED957 ;
+
+
+}
+.p-quemsomos{
+    text-align: left;
+    margin-top: 50px ;
+    font-size: 1.3em;
+    
+}
