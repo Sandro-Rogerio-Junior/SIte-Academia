@@ -75,3 +75,33 @@ ul{
     font-size: 1.3em;
     
 }
+#planos{
+    text-align: center;
+    margin-top: 30px;
+}
+.planos-item{
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    
+    
+}
+.planos-musculação{
+    background-image: url(./assets/fit-young-man-lifting-barbells-working-out-in-a-gym.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.card-title{
+    color: #7ED957 ;
+    font-size: 2em;
+}
+.card-p{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    font-size: 1.3em;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    padding: 1px;
+    
+
+}
